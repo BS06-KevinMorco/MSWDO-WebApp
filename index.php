@@ -16,7 +16,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container-fluid">
-            <img class="navbar-brand" src="mswdo-logo.png" width="50px" height="60px" alt="">
+            <img class="navbar-brand" src="assets/img/mswdo-logo.png" width="50px" height="60px" alt="">
             <div>MSWDO</div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggleMobileMenu" aria-controls="toggleMobileMenu" aria-expanded="false" aria-lable="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
